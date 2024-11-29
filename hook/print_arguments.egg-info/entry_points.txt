@@ -1,0 +1,2 @@
+[console_scripts]
+print-arguments = hook.cli_command:main
